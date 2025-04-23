@@ -1,0 +1,97 @@
+,Sentence Codes,Context sentence,Target sentence
+1,SS_1NP_IN1_S_Def,Amy found a flag in the garage.,The flag was very big.
+2,SS_1NP_IN1_S_Dem,Amy found a flag in the garage.,That flag was very big.
+3,NS_1NP_IN1_O_Def,Amy found a flag in the garage.,Julie will take the flag to the parade next week.
+4,NS_1NP_IN1_O_Dem,Amy found a flag in the garage.,Julie will take that flag to the parade next week.
+5,SS_2NP_IN1_S_Def,Amy found a flag and a banner in the garage.,The flag was very big.
+6,SS_2NP_IN1_S_Dem,Amy found a flag and a banner in the garage.,That flag was very big.
+7,NS_2NP_IN1_O_Def,Amy found a flag and a banner in the garage.,Julie will take the flag to the parade next week.
+8,NS_2NP_IN1_O_Dem,Amy found a flag and a banner in the garage.,Julie will take that flag to the parade next week.
+9,SS_1NP_IN2_S_Def,Ben bought a book.,The book was expensive.
+10,SS_1NP_IN2_S_Dem,Ben bought a book.,That book was expensive.
+11,NS_1NP_IN2_O_Def,Ben bought a book.,He lent the book to Linda a few days later.
+12,NS_1NP_IN2_O_Dem,Ben bought a book.,He lent that book to Linda a few days later.
+13,SS_2NP_IN2_S_Def,Ben bought a book and a magazine.,The book was expensive.
+14,SS_2NP_IN2_S_Dem,Ben bought a book and a magazine.,That book was expensive.
+15,NS_2NP_IN2_O_Def,Ben bought a book and a magazine.,He lent the book to Linda a few days later.
+16,NS_2NP_IN2_O_Dem,Ben bought a book and a magazine.,He lent that book to Linda a few days later.
+17,SS_1NP_IN3_S_Def,Rob baked a cake.,The cake was quite big.
+18,SS_1NP_IN3_S_Dem,Rob baked a cake.,That cake was quite big.
+19,NS_1NP_IN3_O_Def,Rob baked a cake.,Rob's sister ate the cake the following day.
+20,NS_1NP_IN3_O_Dem,Rob baked a cake.,Rob's sister ate that cake the following day.
+21,SS_2NP_IN3_S_Def,Rob baked a pie and a cake.,The cake was quite big.
+22,SS_2NP_IN3_S_Dem,Rob baked a pie and a cake.,That cake was quite big.
+23,NS_2NP_IN3_O_Def,Rob baked a pie and a cake.,Rob's sister ate the cake the following day.
+24,NS_2NP_IN3_O_Dem,Rob baked a pie and a cake.,Rob's sister ate that cake the following day.
+25,SS_1NP_IN4_O_Def,Maya watched a documentary.,She enjoyed the documentary a lot.
+26,SS_1NP_IN4_O_Dem,Maya watched a documentary.,She enjoyed that documentary a lot.
+27,NS_1NP_IN4_S_Def,Maya watched a documentary.,The documentary had been recommended to her by her brother.
+28,NS_1NP_IN4_S_Dem,Maya watched a documentary.,That documentary had been recommended to her by her brother.
+29,SS_2NP_IN4_O_Def,Maya watched a rom-com and a documentary.,She enjoyed the documentary a lot.
+30,SS_2NP_IN4_O_Dem,Maya watched a rom-com and a documentary.,She enjoyed that documentary a lot.
+31,NS_2NP_IN4_S_Def,Maya watched a rom-com and a documentary.,The documentary had been recommended to her by her brother.
+32,NS_2NP_IN4_S_Dem,Maya watched a rom-com and a documentary.,That documentary had been recommended to her by her brother.
+33,SS_1NP_IN5_O_Def,Bella received a video-game on her birthday.,She was excited to play the video-game.
+34,SS_1NP_IN5_O_Dem,Bella received a video-game on her birthday.,She was excited to play that video-game.
+35,NS_1NP_IN5_O_Def,Bella received a video-game on her birthday.,"Later that weekend, she played the video-game with her sister."
+36,NS_1NP_IN5_O_Dem,Bella received a video-game on her birthday.,"Later that weekend, she played that video-game with her sister."
+37,SS_2NP_IN5_O_Def,Bella received a watch and a video-game on her birthday.,She was excited to play the video-game.
+38,SS_2NP_IN5_O_Dem,Bella received a watch and a video-game on her birthday.,She was excited to play that video-game.
+39,NS_2NP_IN5_O_Def,Bella received a watch and a video-game on her birthday.,"Later that weekend, she played the video-game with her sister."
+40,NS_2NP_IN5_O_Dem,Bella received a watch and a video-game on her birthday.,"Later that weekend, she played that video-game with her sister."
+41,SS_1NP_IN6_S_Def,Mindy wrote a poem.,The poem was really long. 
+42,SS_1NP_IN6_S_Dem,Mindy wrote a poem.,That poem was really long. 
+43,NS_1NP_IN6_O_Def,Mindy wrote a poem.,Her school later published the poem in the annual magazine.
+44,NS_1NP_IN6_O_Dem,Mindy wrote a poem.,Her school later published that poem in the annual magazine.
+45,SS_2NP_IN6_S_Def,Mindy wrote a short-story and a poem.,The poem was really long. 
+46,SS_2NP_IN6_S_Dem,Mindy wrote a short-story and a poem.,That poem was really long. 
+47,NS_2NP_IN6_O_Def,Mindy wrote a short-story and a poem.,Her school later published the poem in the annual magazine.
+48,NS_2NP_IN6_O_Dem,Mindy wrote a short-story and a poem.,Her school later published that poem in the annual magazine.
+49,SS_1NP_AN1_S_Def, A journalist is attending today’s party. ,The journalist looks unfriendly. 
+50,SS_1NP_AN1_S_Dem, A journalist is attending today’s party. ,That journalist looks unfriendly. 
+51,NS_1NP_AN1_S_Def, A journalist is attending today’s party. ,The journalist was at Matt’s talk show last week.
+52,NS_1NP_AN1_S_Dem, A journalist is attending today’s party. ,That journalist was at Matt’s talk show last week.
+53,SS_2NP_AN1_S_Def,An author and a journalist are attending today’s party.,The journalist looks unfriendly. 
+54,SS_2NP_AN1_S_Dem,An author and a journalist are attending today’s party.,That journalist looks unfriendly. 
+55,NS_2NP_AN1_S_Def,An author and a journalist are attending today’s party.,The journalist was at Matt’s talk show last week.
+56,NS_2NP_AN1_S_Dem,An author and a journalist are attending today’s party.,That journalist was at Matt’s talk show last week.
+57,SS_1NP_AN2_S_Def,A boy entered the classroom.,The boy sat down in the front row.
+58,SS_1NP_AN2_S_Dem,A boy entered the classroom.,That boy sat down in the front row.
+59,NS_1NP_AN2_O_Def,A boy entered the classroom.,I had noticed the boy at a coffee shop yesterday.
+60,NS_1NP_AN2_O_Dem,A boy entered the classroom.,I had noticed that boy at a coffee shop yesterday.
+61,SS_2NP_AN2_S_Def,A boy and a girl entered the classroom.,The boy sat down in the front row.
+62,SS_2NP_AN2_S_Dem,A boy and a girl entered the classroom.,That boy sat down in the front row.
+63,NS_2NP_AN2_O_Def,A boy and a girl entered the classroom.,I had noticed the boy at a coffee shop yesterday.
+64,NS_2NP_AN2_O_Dem,A boy and a girl entered the classroom.,I had noticed that boy at a coffee shop yesterday.
+65,SS_1NP_AN3_S_Def,A dog is playing with Sarah in the park.,The dog seems very excited to be outdoors.
+66,SS_1NP_AN3_S_Dem,A dog is playing with Sarah in the park.,That dog seems very excited to be outdoors.
+67,NS_1NP_AN3_O_Def,A dog is playing with Sarah in the park.,Sarah’s friend had just adopted the dog yesterday.
+68,NS_1NP_AN3_O_Dem,A dog is playing with Sarah in the park.,Sarah’s friend had just adopted that dog yesterday.
+69,SS_2NP_AN3_S_Def,A dog and a cat are playing with Sarah in the park.,The dog seems very excited to be outdoors.
+70,SS_2NP_AN3_S_Dem,A dog and a cat are playing with Sarah in the park.,That dog seems very excited to be outdoors.
+71,NS_2NP_AN3_O_Def,A dog and a cat are playing with Sarah in the park.,Sarah’s friend had just adopted the dog yesterday.
+72,NS_2NP_AN3_O_Dem,A dog and a cat are playing with Sarah in the park.,Sarah’s friend had just adopted that dog yesterday.
+73,SS_1NP_AN4_S_Def,A professor came to Jenny’s farewell party today.,The professor was very tall.
+74,SS_1NP_AN4_S_Dem,A professor came to Jenny’s farewell party today.,That professor was very tall.
+75,NS_1NP_AN4_O_Def,A professor came to Jenny’s farewell party today.,I had seen the professor earlier at a seminar last week.
+76,NS_1NP_AN4_O_Dem,A professor came to Jenny’s farewell party today.,I had seen that professor earlier at a seminar last week.
+77,SS_2NP_AN4_S_Def,A professor and a student came to Jenny’s farewell party today.,The professor was very tall.
+78,SS_2NP_AN4_S_Dem,A professor and a student came to Jenny’s farewell party today.,That professor was very tall.
+79,NS_2NP_AN4_O_Def,A professor and a student came to Jenny’s farewell party today.,I had seen the professor earlier at a seminar last week.
+80,NS_2NP_AN4_O_Dem,A professor and a student came to Jenny’s farewell party today.,I had seen that professor earlier at a seminar last week.
+81,SS_1NP_AN5_O_Def,Bill met a singer at the music festival.,He asked the singer for an autograph.
+82,SS_1NP_AN5_O_Dem,Bill met a singer at the music festival.,He asked that singer for an autograph.
+83,NS_1NP_AN5_S_Def,Bill met a singer at the music festival.,The singer will perform at Bill’s friend’s club next week.
+84,NS_1NP_AN5_S_Dem,Bill met a singer at the music festival.,That singer will perform at Bill’s friend’s club next week.
+85,SS_2NP_AN5_O_Def,Bill met a singer and a drummer at the music festival.,He asked the singer for an autograph.
+86,SS_2NP_AN5_O_Dem,Bill met a singer and a drummer at the music festival.,He asked that singer for an autograph.
+87,NS_2NP_AN5_S_Def,Bill met a singer and a drummer at the music festival.,The singer will perform at Bill’s friend’s club next week.
+88,NS_2NP_AN5_S_Dem,Bill met a singer and a drummer at the music festival.,That singer will perform at Bill’s friend’s club next week.
+89,SS_1NP_AN6_S_Def,Ron adopted a guinea pig from the shelter last month.,The guinea pig was very cute.
+90,SS_1NP_AN6_S_Dem,Ron adopted a guinea pig from the shelter last month.,That guinea pig was very cute.
+91,NS_1NP_AN6_O_Def,Ron adopted a guinea pig from the shelter last month.,Ron’s daughter has grown to adore the guinea pig.
+92,NS_1NP_AN6_O_Dem,Ron adopted a guinea pig from the shelter last month.,Ron’s daughter has grown to adore that guinea pig.
+93,SS_2NP_AN6_S_Def,Ron adopted a hamster and guinea pig from the shelter last month.,The guinea pig was very cute.
+94,SS_2NP_AN6_S_Dem,Ron adopted a hamster and guinea pig from the shelter last month.,That guinea pig was very cute.
+95,NS_2NP_AN6_O_Def,Ron adopted a hamster and guinea pig from the shelter last month.,Ron’s daughter has grown to adore the guinea pig.
+96,NS_2NP_AN6_O_Dem,Ron adopted a hamster and guinea pig from the shelter last month.,Ron’s daughter has grown to adore that guinea pig.
