@@ -1,0 +1,25 @@
+,Sentence Codes,Context sentence,Target sentence,Judgments
+1,F1_1,Damian lieh drei Regenschirme von Nora.,Der Regenschirm war schwarz.,BAD
+2,F1_2,Damian lieh drei Regenschirme von Nora.,Alle Regenschirme waren schwarz.,GOOD
+3,F2_1,"Immer wenn James einem kleinen Jungen auf der Straße lächelte, ...",... lächelte sie James zurück.,BAD
+4,F2_2,"Immer wenn James einem kleinen Jungen auf der Straße lächelte, ...",... lächelte er James zurück.,GOOD
+5,F3_1,"Immer wenn Brenda in ein neues Haus zog, ...",... malte er die Wände gelb.,BAD
+6,F3_2,"Immer wenn Brenda in ein neues Haus zog, ...",... malte es die Wände gelb.,BAD
+7,F4_1,Julian lieh sich ein Buch aus der Bibliothek.,Er gab das Buch nicht rechtzeitig zurück.,GOOD
+8,F4_2,Julian lieh sich ein Buch aus der Bibliothek.,Er gab es nicht rechtzeitig zurück.,GOOD
+9,F5_1,Bruno kaufte zwei Pflanzen.,Er goss es jeden Tag.,BAD
+10,F5_2,Bruno kaufte zwei Pflanzen.,Er goss sie jeden Tag.,GOOD
+11,F6_1,Rita las drei Romane.,Beide waren gut geschrieben.,BAD
+12,F6_2,Rita las drei Romane.,Es war gut geschrieben.,BAD
+13,F7_1,Anna backte einen Kuchen.,Alle von ihnen waren köstlich.,BAD
+14,F7_2,Anna backte einen Kuchen.,Sie waren köstlich.,BAD
+15,F8_1,John machte all das Geschirr.,Er wusch es sauber.,GOOD
+16,F8_2,John machte all das Geschirr.,Er wusch ihr sauber.,BAD
+17,F9_1,"Immer wenn Linda mit dem Fahrrad zur Schule fuhr, ...",... brach ihr Fahrrad zusammen.,GOOD
+18,F9_2,"Immer wenn Linda mit dem Fahrrad zur Schule fuhr, ...",... brach es zusammen.,GOOD
+19,F10_1,Brian ließ drei Bananen über eine Woche im Kühlschrank.,Sie begannen zu verrotten.,GOOD
+20,F10_2,Brian ließ drei Bananen über eine Woche im Kühlschrank.,Banane begann zu verrotten.,BAD
+21,F11_1,Mary machte ein Foto vom Sonnenuntergang.,"Sie dachte, dass es wunderschön aussah.",GOOD
+22,F11_2,Mary machte ein Foto vom Sonnenuntergang.,"Sie dachte, dass sie wunderschön aussahen.",BAD
+23,F12_1,Immer wenn Tara einen Blazer und einen Rock kauft...,...sind sie teuer.,GOOD
+24,F12_2,Immer wenn Tara einen Blazer und einen Rock kauft...,...sind beide von ihnen teuer.,GOOD

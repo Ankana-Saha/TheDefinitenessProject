@@ -1,0 +1,7 @@
+,Context sentence,Target sentence,Judgments ,,Instructions
+1_1,Lauren hat sich eine Jacke und einen Rock von Irene geliehen.,Sie waren neu.,GOOD,,"Sie könnten denken, dass beide Optionen ziemlich gute Fortsetzungen des oben genannten Satzes sind. Wenn ja, sollten Sie den Schieber für beide Optionen irgendwo nach rechts ziehen."
+1_2,Lauren hat sich eine Jacke und einen Rock von Irene geliehen.,Der Rock und die Jacke waren beide neu.,GOOD,,
+2_1,Jeremy hat einen Apfel im Kühlschrank gefunden.,Die Äpfel waren verrottet.,BAD,,"Sie könnten denken, dass beide Optionen als Fortsetzungen des oben genannten Satzes unnatürlich klingen. Wenn ja, sollten Sie den Schieber für beide Optionen irgendwo nach links ziehen."
+2_2,Jeremy hat einen Apfel im Kühlschrank gefunden.,Orange war verrottet.,BAD,,
+3_1,Mia fand eine hübsche Blume auf dem Boden.,Sie hob sie auf.,GOOD,,"Sie könnten denken, dass die erste Option natürlicher klingt als die zweite Option als Fortsetzung des oben gegebenen Satzteils. Wenn ja, sollten Sie den Schieber für die obere Option irgendwo nach rechts und für die untere Option irgendwo nach links ziehen."
+3_2,Mia fand eine hübsche Blume auf dem Boden.,Sie hob die Blumen auf.,BAD,,
