@@ -1,0 +1,7 @@
+,Context sentence,Target sentence,Judgments ,,Instructions
+1_1,Lauren borrowed a jacket and a skirt from Irene.,They were new.,GOOD,,"You might think that both the options below are pretty good continuations of the sentence above. lf so, you should drag the slider somewhere to the right for both options."
+1_2,Lauren borrowed a jacket and a skirt from Irene.,The skirt and the jacket were both new.,GOOD,,
+2_1,Jeremy found one apple in the fridge.,The apples were rotten.,BAD,,"You might think that both the options below sound unnatural as continuations of the sentence above. If so, you should drag the slider somewhere to the left for both options."
+2_2,Jeremy found one apple in the fridge.,Orange was rotten.,BAD,,
+3_1,Mia found a pretty flower on the ground.,She picked it up.,GOOD,,"You might think that the top option sounds more natural than the bottom option as a continuation of the sentence given above. lf so, you should drag the slider somewhere to the right for the top option and somewhere to the left for the bottom option."
+3_2,Mia found a pretty flower on the ground.,She picked them up.,BAD,,

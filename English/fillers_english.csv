@@ -1,0 +1,25 @@
+,Sentence Codes,Context sentence,Target sentence,Judgments
+1,F1_1,Damien borrowed three umbrellas from Nora,Umbrella was black.,BAD
+2,F1_2,Damien borrowed three umbrellas from Nora,All the umbrellas were black.,GOOD
+3,F2_1,"Whenever James smiled at a little boy on the road, ...",she smiled back at James.,BAD
+4,F2_2,"Whenever James smiled at a little boy on the road, ...",he smiled back at James,GOOD
+5,F3_1,"Whenever Brenda moved into a new house, ...",he painted the walls yellow.,BAD
+6,F3_2,"Whenever Brenda moved into a new house, ...",it painted the walls yellow.,BAD
+7,F4_1,Julian borrowed a book from the library.,He didn’t return the book on time.,GOOD
+8,F4_2,Julian borrowed a book from the library.,He didn’t return it on time.,GOOD
+9,F5_1,Bob bought two plants.,He watered it every day.,BAD
+10,F5_2,Bob bought two plants.,He watered them every day.,GOOD
+11,F6_1,Rita read three novels.  ,Both were well-written.,BAD
+12,F6_2,Rita read three novels.  ,It was well-written.,BAD
+13,F7_1,Sia baked a cake.,All of them were delicious.,BAD
+14,F7_2,Sia baked a cake.,They were delicious.,BAD
+15,F8_1,John did all the dishes. ,He washed it clean.,BAD
+16,F8_2,John did all the dishes. ,He washed her clean.,BAD
+17,F9_1,"Whenever Linda rode a bike to school, ...",her bike broke down.,GOOD
+18,F9_2,"Whenever Linda rode a bike to school, ...",it broke down.,GOOD
+19,F10_1,Brian left three bananas in the fridge for over a week. ,They started to rot.,GOOD
+20,F10_2,Brian left three bananas in the fridge for over a week. ,Banana started to rot.,BAD
+21,F11_1,Mary took a photo of the sunset.,She thought it looked gorgeous.,GOOD
+22,F11_2,Mary took a photo of the sunset.,She thought they looked gorgeous.,BAD
+23,F12_1,Whenever Tara buys a blazer and a skirt...,they are expensive.,GOOD
+24,F12_2,Whenever Tara buys a blazer and a skirt...,both of them are expensive.,GOOD
