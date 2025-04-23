@@ -1,0 +1,25 @@
+,Sentence Codes,Context sentence,Target sentence,Judgments
+1,F1_1,Damini tin-te chhata kinechhe.,chhata-ta kalo.,Bad
+2,F1_2,Damini tin-te chhata kinechhe.,shob-kota chhata kalo.,Good
+3,F2_1,Anindita ekta notun bari kinechhe.,bari-gulor pichhone ekta bagan achhe.,Bad
+4,F2_2,Anindita ekta notun bari kinechhe.,bari-tar pichhone ekta bagan achhe.,Good
+5,F3_1,Joydeep-er ekta boi-er dokan achhe.,dokan-ra beshi boro noy.,Bad
+6,F3_2,Joydeep-er ekta boi-er dokan achhe.,dokan-gulo beshi boro noy.,Bad
+7,F4_1,Parul library theke ekta golper boi enechhe.,kintu sheta ekhono pora shuru koreni.,Good
+8,F4_2,Parul library theke ekta golper boi enechhe.,kintu boi-ta ekhono pora shuru koreni.,Good
+9,F5_1,Sayantan-er janla-e duto chhoto gaachh chhilo.,o roj shetay jol dito.,Bad
+10,F5_2,Sayantan-er janla-e duto chhoto gaachh chhilo.,o roj shegulo-te jol dito.,Good
+11,F6_1,Rita goto maashe chaar-te boi porechhe.,boi duto besh bhalo lekha.,Bad
+12,F6_2,Rita goto maashe chaar-te boi porechhe.,boi-ta besh bhalo lekha.,Bad
+13,F7_1,Sourabh ekta cake baniyechhe.,cake-gulo besh bhalo khete hoechhe.,Bad
+14,F7_2,Sourabh ekta cake baniyechhe.,shob-kota cake besh bhalo khete hoechhe.,Bad
+15,F8_1,Shreyan shob-kota bashon mejechhe.,bashon-gulo chokchok korchhe.,Good
+16,F8_2,Shreyan shob-kota bashon mejechhe.,bashon-ta  chokchok korchhe.,Bad
+17,F9_1,Neha cycle chaliye school-e jaye.,or cycle-ta neel rong-er.,Good
+18,F9_2,Neha cycle chaliye school-e jaye.,cycle-ta neel rong-er.,Good
+19,F10_1,Ahana tin shoptaho dhore table-er opor ek jhuri phol phele rekhechhe.,shob-kota phol poche gyachhe.,Good
+20,F10_2,Ahana tin shoptaho dhore table-er opor ek jhuri phol phele rekhechhe.,aloo-ta pochhe gyachhe.,Bad
+21,F11_1,Rahul-er album-e shomudrer onek chhobi achhe.,chhobi-gulo khub shundor.,Good
+22,F11_2,Rahul-er album-e shomudrer onek chhobi achhe.,chhobi khub shundor.,Bad
+23,F12_1,Angan duto boi kinechhe.,boi duto College Street theke kena.,Good
+24,F12_2,Angan duto boi kinechhe.,boi-gulo College Street theke kena.,Good

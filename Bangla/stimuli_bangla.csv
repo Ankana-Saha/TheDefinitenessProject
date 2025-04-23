@@ -1,0 +1,97 @@
+,Sentence Codes,Context sentence,Target sentence
+1,SS_1NP_IN1_S_Def,Shyam aaj bajar-e giye ekta ilish maachh kinechhe.,ilish maachh-ta besh shoshtay peyechhe.
+2,SS_1NP_IN1_S_Dem,Shyam aaj bajar-e giye ekta ilish maachh kinechhe.,shei ilish maachh-ta besh shoshtay peyechhe.
+3,NS_1NP_IN1_O_Def,Shyam aaj bajar-e giye ekta ilish maachh kinechhe.,Neera ilish maachh-ta porshu din banabe.
+4,NS_1NP_IN1_O_Dem,Shyam aaj bajar-e giye ekta ilish maachh kinechhe.,Neera shei ilish maachh-ta porshu din banabe.
+5,SS_2NP_IN1_O_Def,Shyam aaj bajar-e giye ekta katla maachh aar ekta ilish maachh kinechhe.,ilish maachh-ta besh shoshtay peyechhe.
+6,SS_2NP_IN1_O_Dem,Shyam aaj bajar-e giye ekta katla maachh aar ekta ilish maachh kinechhe.,shei ilish maachh-ta besh shoshtay peyechhe.
+7,NS_2NP_IN1_O_Def,Shyam aaj bajar-e giye ekta katla maachh aar ekta ilish maachh kinechhe.,Neera ilish maachh-ta porshu din banabe.
+8,NS_2NP_IN1_O_Dem,Shyam aaj bajar-e giye ekta katla maachh aar ekta ilish maachh kinechhe.,Neera shei ilish maachh-ta porshu din banabe.
+9,SS_1NP_IN2_S_Def,Konkona goto bochhor boimela theke ekta uponyash kinechilo.,uponyash-ta besh mota chhilo.
+10,SS_1NP_IN2_S_Dem,Konkona goto bochhor boimela theke ekta uponyash kinechilo.,shei uponyash-ta besh mota chhilo.
+11,NS_1NP_IN2_O_Def,Konkona goto bochhor boimela theke ekta uponyash kinechilo.,kichhu din por uponyash-ta o Tania-ke porte diyechhilo.
+12,NS_1NP_IN2_O_Dem,Konkona goto bochhor boimela theke ekta uponyash kinechilo.,kichhu din por shei uponyash-ta o Tania-ke porte diyechhilo.
+13,SS_2NP_IN2_S_Def,Konkona goto bochhor boimela theke ekta uponyash aar ekta golpo-guchho kinechilo.,uponyash-ta besh mota chhilo.
+14,SS_2NP_IN2_S_Dem,Konkona goto bochhor boimela theke ekta uponyash aar ekta golpo-guchho kinechilo.,shei uponyash-ta besh mota chhilo.
+15,NS_2NP_IN2_O_Def,Konkona goto bochhor boimela theke ekta uponyash aar ekta golpo-guchho kinechilo.,kichhu din por uponyash-ta o Tania-ke porte diyechhilo.
+16,NS_2NP_IN2_O_Dem,Konkona goto bochhor boimela theke ekta uponyash aar ekta golpo-guchho kinechilo.,kichhu din por shei uponyash-ta o Tania-ke porte diyechhilo.
+17,SS_1NP_IN3_S_Def,Arpan bikele ghurte beriye ekta cake kine enechhe.,cake-ta eto boro je dujon khete pare.
+18,SS_1NP_IN3_S_Dem,Arpan bikele ghurte beriye ekta cake kine enechhe.,shei cake-ta eto boro je dujon khete pare.
+19,NS_1NP_IN3_O_Def,Arpan bikele ghurte beriye ekta cake kine enechhe.,Arpan-er bon cake-ta kalke jolkhabare khabe.
+20,NS_1NP_IN3_O_Dem,Arpan bikele ghurte beriye ekta cake kine enechhe.,Arpan-er bon shei cake-ta kalke jolkhabare khabe.
+21,SS_2NP_IN3_S_Def,Arpan bikele ghurte beriye ekta chicken kabiraji aar ekta cake kine enechhe.,cake-ta eto boro je dujon khete pare.
+22,SS_2NP_IN3_S_Dem,Arpan bikele ghurte beriye ekta chicken kabiraji aar ekta cake kine enechhe.,shei cake-ta eto boro je dujon khete pare.
+23,NS_2NP_IN3_O_Def,Arpan bikele ghurte beriye ekta chicken kabiraji aar ekta cake kine enechhe.,Arpan-er bon cake-ta kalke jolkhabare khabe.
+24,NS_2NP_IN3_O_Dem,Arpan bikele ghurte beriye ekta chicken kabiraji aar ekta cake kine enechhe.,Arpan-er bon shei cake-ta kalke jolkhabare khabe.
+25,SS_1NP_IN4_S_Def,Mala robibar ekta cinema dekhte giyechhilo.,cinema-ta Nandan-e hochhilo.
+26,SS_1NP_IN4_S_Dem,Mala robibar ekta cinema dekhte giyechhilo.,shei cinema-ta Nandan-e hochhilo.
+27,NS_1NP_IN4_O_Def,Mala robibar ekta cinema dekhte giyechhilo.,cinema-ta Mala-r bondhura aagei dekhe eshechhilo.
+28,NS_1NP_IN4_O_Dem,Mala robibar ekta cinema dekhte giyechhilo.,shei cinema-ta Mala-r bondhura aagei dekhe eshechhilo.
+29,SS_2NP_IN4_S_Def,Mala robibar ekta cinema aar ekta natok dekhte giyechhilo.,cinema-ta Nandan-e hochhilo.
+30,SS_2NP_IN4_S_Dem,Mala robibar ekta cinema aar ekta natok dekhte giyechhilo.,shei cinema-ta Nandan-e hochhilo.
+31,NS_2NP_IN4_O_Def,Mala robibar ekta cinema aar ekta natok dekhte giyechhilo.,cinema-ta Mala-r bondhura aagei dekhe eshechhilo.
+32,NS_2NP_IN4_O_Dem,Mala robibar ekta cinema aar ekta natok dekhte giyechhilo.,shei cinema-ta Mala-r bondhura aagei dekhe eshechhilo.
+33,SS_1NP_IN5_S_Def,Arunima ebar jonmodin-e ekta ghori upohaar peyechhe.,ghori-tar design-ta khub shundor.
+34,SS_1NP_IN5_S_Dem,Arunima ebar jonmodin-e ekta ghori upohaar peyechhe.,shei ghori-tar design-ta khub shundor.
+35,NS_1NP_IN5_O_Def,Arunima ebar jonmodin-e ekta ghori upohaar peyechhe.,porer mashe Sandeep-er biye-te o ghori-ta pore jabe.
+36,NS_1NP_IN5_O_Dem,Arunima ebar jonmodin-e ekta ghori upohaar peyechhe.,porer mashe Sandeep-er biye-te o shei ghori-ta pore jabe.
+37,SS_2NP_IN5_S_Def,Arunima ebar jonmodin-e ekta ghori aar ekta jama upohaar peyechhe.,ghori-tar design-ta khub shundor.
+38,SS_2NP_IN5_S_Dem,Arunima ebar jonmodin-e ekta ghori aar ekta jama upohaar peyechhe.,shei ghori-tar design-ta khub shundor.
+39,NS_2NP_IN5_O_Def,Arunima ebar jonmodin-e ekta ghori aar ekta jama upohaar peyechhe.,porer mashe Sandeep-er biye-te o ghori-ta pore jabe.
+40,NS_2NP_IN5_O_Dem,Arunima ebar jonmodin-e ekta ghori aar ekta jama upohaar peyechhe.,porer mashe Sandeep-er biye-te o shei ghori-ta pore jabe.
+41,SS_1NP_IN6_S_Def,Annesha ekta kobita likhechhe.,kobita-ta besh lomba.
+42,SS_1NP_IN6_S_Dem,Annesha ekta kobita likhechhe.,shei kobita-ta besh lomba.
+43,NS_1NP_IN6_S_Def,Annesha ekta kobita likhechhe.,kobita-ta or school-er magazine-e agami bochhor prokashito hobe.
+44,NS_1NP_IN6_S_Dem,Annesha ekta kobita likhechhe.,shei kobita-ta or school-er magazine-e agami bochhor prokashito hobe.
+45,SS_2NP_IN6_S_Def,Annesha ekta rochona aar ekta kobita likhechhe.,kobita-ta besh lomba.
+46,SS_2NP_IN6_S_Dem,Annesha ekta rochona aar ekta kobita likhechhe.,shei kobita-ta besh lomba.
+47,NS_2NP_IN6_S_Def,Annesha ekta rochona aar ekta kobita likhechhe.,kobita-ta or school-er magazine-e agami bochhor prokashito hobe.
+48,NS_2NP_IN6_S_Dem,Annesha ekta rochona aar ekta kobita likhechhe.,shei kobita-ta or school-er magazine-e agami bochhor prokashito hobe.
+49,SS_1NP_AN1_S_Def,ajker onushthan-e ekta sangbadik uposthit achhe.,sangbadik-ta-ke besh gombhir dekhte.
+50,SS_1NP_AN1_S_Dem,ajker onushthan-e ekta sangbadik uposthit achhe.,shei sangbadik-ta-ke besh gombhir dekhte.
+51,NS_1NP_AN1_S_Def,ajker onushthan-e ekta sangbadik uposthit achhe.,sangbadik-ta goto shoptahe Ayan-er radio show-e eshechilo.
+52,NS_1NP_AN1_S_Dem,ajker onushthan-e ekta sangbadik uposthit achhe.,shei sangbadik-ta goto shoptahe Ayan-er radio show-e eshechilo.
+53,SS_2NP_AN1_S_Def,ajker onushthan-e ekta lekhok aar ekta sangbadik uposthit achhe.,sangbadik-ta-ke besh gombhir dekhte.
+54,SS_2NP_AN1_S_Dem,ajker onushthan-e ekta lekhok aar ekta sangbadik uposthit achhe.,shei sangbadik-ta-ke besh gombhir dekhte.
+55,NS_2NP_AN1_S_Def,ajker onushthan-e ekta lekhok aar ekta sangbadik uposthit achhe.,sangbadik-ta goto shoptahe Ayan-er radio show-e eshechilo.
+56,NS_2NP_AN1_S_Dem,ajker onushthan-e ekta lekhok aar ekta sangbadik uposthit achhe.,shei sangbadik-ta goto shoptahe Ayan-er radio show-e eshechilo.
+57,SS_1NP_AN2_S_Def,classroom-e ekta chhele boshe achhe.,chhele-ta mon diye ekta boi porchhe.
+58,SS_1NP_AN2_S_Dem,classroom-e ekta chhele boshe achhe.,shei chhele-ta mon diye ekta boi porchhe.
+59,NS_1NP_AN2_O_Def,classroom-e ekta chhele boshe achhe.,chhele-ta-ke ami aage amader para-e khelte dekhechhi.
+60,NS_1NP_AN2_O_Dem,classroom-e ekta chhele boshe achhe.,shei chhele-ta-ke ami aage amader para-e khelte dekhechhi.
+61,SS_2NP_AN2_S_Def,classroom-e ekta chhele aar ekta meye boshe achhe.,chhele-ta mon diye ekta boi porchhe.
+62,SS_2NP_AN2_S_Dem,classroom-e ekta chhele aar ekta meye boshe achhe.,shei chhele-ta mon diye ekta boi porchhe.
+63,NS_2NP_AN2_O_Def,classroom-e ekta chhele aar ekta meye boshe achhe.,chhele-ta-ke ami aage amader para-e khelte dekhechhi.
+64,NS_2NP_AN2_O_Dem,classroom-e ekta chhele aar ekta meye boshe achhe.,shei chhele-ta-ke ami aage amader para-e khelte dekhechhi.
+65,SS_1NP_AN3_S_Def,Mainak ekta kukur-er saDef bagan-e khelchhe.,kukur-ta bheeshon aadure.
+66,SS_1NP_AN3_S_Dem,Mainak ekta kukur-er saDef bagan-e khelchhe.,shei kukur-ta bheeshon aadure.
+67,NS_1NP_AN3_O_Def,Mainak ekta kukur-er saDef bagan-e khelchhe.,Mainak-er bhai koek din aage kukur-ta-ke rasta Defke tule enechhe.
+68,NS_1NP_AN3_O_Dem,Mainak ekta kukur-er saDef bagan-e khelchhe.,Mainak-er bhai koek din aage shei kukur-ta-ke rasta Defke tule enechhe.
+69,SS_2NP_AN3_S_Def,Mainak ekta biral aar ekta kukur-er saDef bagan-e khelchhe.,kukur-ta bheeshon aadure.
+70,SS_2NP_AN3_S_Dem,Mainak ekta biral aar ekta kukur-er saDef bagan-e khelchhe.,shei kukur-ta bheeshon aadure.
+71,NS_2NP_AN3_O_Def,Mainak ekta biral aar ekta kukur-er saDef bagan-e khelchhe.,Mainak-er bhai koek din aage kukur-ta-ke rasta Defke tule enechhe.
+72,NS_2NP_AN3_O_Dem,Mainak ekta biral aar ekta kukur-er saDef bagan-e khelchhe.,Mainak-er bhai koek din aage shei kukur-ta-ke rasta Defke tule enechhe.
+73,SS_1NP_AN4_S_Def,Ankita’r biye-te or college-er ekta chhatro eshechhe.,chhatro-ta bhishal lomba.
+74,SS_1NP_AN4_S_Dem,Ankita’r biye-te or college-er ekta chhatro eshechhe.,shei chhatro-ta bhishal lomba.
+75,NS_1NP_AN4_S_Def,Ankita-r biye-te or college-er ekta chhatro eshechhe.,chhatro-ta gotokal amar lecture shunte eshechhilo.
+76,NS_1NP_AN4_S_Dem,Ankita-r biye-te or college-er ekta chhatro eshechhe.,shei chhatro-ta gotokal amar lecture shunte eshechhilo.
+77,SS_2NP_AN4_S_Def,Ankita-r biye-te or college-er ekta chhatro aar ekta chhatri eshechhe.,chhatro-ta bishal lomba.
+78,SS_2NP_AN4_S_Dem,Ankita-r biye-te or college-er ekta chhatro aar ekta chhatri eshechhe.,shei chhatro-ta bishal lomba.
+79,NS_2NP_AN4_S_Def,Ankita-r biye-te or college-er ekta chhatro aar ekta chhatri eshechhe.,chhatro-ta gotokal amar lecture shunte eshechhilo.
+80,NS_2NP_AN4_S_Dem,Ankita-r biye-te or college-er ekta chhatro aar ekta chhatri eshechhe.,shei chhatro-ta gotokal amar lecture shunte eshechhilo.
+81,SS_1NP_AN5_S_Def,maidan-er pashe ekta boyoshko lok khelna bikri korchhe.,lok-ta bhari shundor ekta tupi pore achhe.
+82,SS_1NP_AN5_S_Dem,maidan-er pashe ekta boyoshko lok khelna bikri korchhe.,shei lok-ta bhari shundor ekta tupi pore achhe.
+83,NS_1NP_AN5_O_Def,maidan-er pashe ekta boyoshko lok khelna bikri korchhe.,lok-ta-ke ami aage amader para-e thala-bashon bikri korte dekhechhi.
+84,NS_1NP_AN5_O_Dem,maidan-er pashe ekta boyoshko lok khelna bikri korchhe.,shei lok-ta-ke ami aage amader para-e thala-bashon bikri korte dekhechhi.
+85,SS_2NP_AN5_S_Def,maidan-er pashe ekta boyoshko lok aar ekta mohila khelna bikri korchhe.,lok-ta bhari shundor ekta tupi pore achhe.
+86,SS_2NP_AN5_S_Dem,maidan-er pashe ekta boyoshko lok aar ekta mohila khelna bikri korchhe.,shei lok-ta bhari shundor ekta tupi pore achhe.
+87,NS_2NP_AN5_O_Def,maidan-er pashe ekta boyoshko lok aar ekta mohila khelna bikri korchhe.,lok-ta-ke ami aage amader para-e thala-bashon bikri korte dekhechhi.
+88,NS_2NP_AN5_O_Dem,maidan-er pashe ekta boyoshko lok aar ekta mohila khelna bikri korchhe.,shei lok-ta-ke ami aage amader para-e thala-bashon bikri korte dekhechhi.
+89,SS_1NP_AN6_S_Def,Akaash barite ekta khargosh niye eshechhe.,khargosh-tar rong kuchkuche kalo.
+90,SS_1NP_AN6_S_Dem,Akaash barite ekta khargosh niye eshechhe.,shei khargosh-tar rong kuchkuche kalo.
+91,NS_1NP_AN6_S_Def,Akaash barite ekta khargosh niye eshechhe.,khargosh-ta aage Akaash-er mama-r kachhe thakto.
+92,NS_1NP_AN6_S_Dem,Akaash barite ekta khargosh niye eshechhe.,shei khargosh-ta aage Akaash-er mama-r kachhe thakto.
+93,SS_2NP_AN6_S_Def,Akaash barite  ekta totapakhi aar ekta khargosh niye eshechhe.,khargosh-tar rong kuchkuche kalo.
+94,SS_2NP_AN6_S_Dem,Akaash barite  ekta totapakhi aar ekta khargosh niye eshechhe.,shei khargosh-tar rong kuchkuche kalo.
+95,NS_2NP_AN6_S_Def,Akaash barite ekta totapakhi aar ekta khargosh niye eshechhe.,khargosh-ta aage Akaash-er mama-r kachhe thakto.
+96,NS_2NP_AN6_S_Dem,Akaash barite ekta totapakhi aar ekta khargosh niye eshechhe.,shei khargosh-ta aage Akaash-er mama-r kachhe thakto.
