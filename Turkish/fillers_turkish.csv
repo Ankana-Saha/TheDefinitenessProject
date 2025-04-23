@@ -1,0 +1,25 @@
+,Sentence Codes,Context sentence,Target sentence,Judgments
+1,F1_1,Kerem Sevgi'den üç şemsiye ödünç aldı.,Şemsiye kırık çıktı.,Bad
+2,F1_2,Kerem Sevgi'den üç şemsiye ödünç aldı.,Şemsiyelerin hepsi kırık çıktı.,Good
+3,F2_1,"İrem ne zaman küçük bir kız çocuğuna gülümsese, ...",o da İrem'e gülümser.,Good
+4,F2_2,"İrem ne zaman küçük bir kız çocuğuna gülümsese, ...",onlar da İrem'e gülümser.,Bad
+5,F3_1,"Pelin ne zaman yeni bir eve taşınsa, ...",duvarları kendisi boyar.,Good
+6,F3_2,"Pelin ne zaman yeni bir eve taşınsa, ...",onları kendisi boyar.,Bad
+7,F4_1,Aslı kütüphaneden bir kitap aldı.,Ama kitabı zamanında geri vermedi.,Good
+8,F4_2,Aslı kütüphaneden bir kitap aldı.,Ama onu zamanında geri vermedi.,Good
+9,F5_1,Leyla pazardan iki çiçek aldı.,Onu her gün suladı.,Bad
+10,F5_2,Leyla pazardan iki çiçek aldı.,Onları her gün suladı.,Good
+11,F6_1,Turgut iki roman okudu.,İkisini de çok sürükleyici bulduğunu söyledi.,Good
+12,F6_2,Turgut iki roman okudu.,Onu çok sürükleyici bulduğunu söyledi.,Bad
+13,F7_1,Ezgi bütün tabakları yıkadı.,Onu pırıl pırıl yaptı.,Bad
+14,F7_2,Ezgi bütün tabakları yıkadı.,Hepsini pırıl pırıl yaptı.,Good
+15,F8_1,Annem bir pasta yaptı.,Hepsi çok lezzetliydi.,Bad
+16,F8_2,Annem bir pasta yaptı.,İkisi de çok lezzetliydi.,Bad
+17,F9_1,"Kızım ne zaman okula bisikletle gitse, ...",bisikletine bir şey olur.,Good
+18,F9_2,"Kızım ne zaman okula bisikletle gitse, ...",bisikleti kırılır.,Good
+19,F10_1,Kardeşim buzdolabına üç elma koymuştu.,Elmalar çürümeye başladı.,Good
+20,F10_2,Kardeşim buzdolabına üç elma koymuştu.,Elma çürümeye başladı.,Bad
+21,F11_1,Suzan gün batımının fotoğrafını çekmiş.,Çok muhteşem göründüğünü düşünmüş.,Good
+22,F11_2,Suzan gün batımının fotoğrafını çekmiş.,Çok muhteşem göründüklerini düşünmüş.,Bad
+23,F12_1,"Asya ne zaman bir bluz ve bir etek alsa, ...",pahalı olur.,Good
+24,F12_2,"Asya ne zaman bir bluz ve bir etek alsa, ...",ikisi de pahalı olur.,Good
